@@ -66,7 +66,7 @@ export default function HomePage() {
 
       {/* Footer */}
       <footer className="mt-20 py-10 text-center text-sm text-gray-400 border-t">
-        © {new Date().getFullYear()} Lumina — Built with ❤️ by Developers
+        © {new Date().getFullYear()} Lumina — Built by Team No.39 From VIT Bhopal University
       </footer>
     </div>
   )
