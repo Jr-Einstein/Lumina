@@ -1,18 +1,14 @@
 "use client"
 
 import Image from "next/image"
-import Link from "next/link"
 import { motion } from "framer-motion"
 import { ProjectForm } from "@/modules/home/ui/components/project-form"
 import { ProjectsList } from "@/modules/home/ui/components/projects-list"
 
 // Sections
 import PricingPage from "./pricing/page"
-import TutorialPage from "./tutorial/page"
-import DevelopersPage from "./developers/page"
 import FAQPage from "./faq/page"
-import ContactPage from "./contact/page"
-import AboutPage from "./about/page"
+import DevelopersPage from "./developers/page"
 
 export default function HomePage() {
   return (
@@ -58,29 +54,14 @@ export default function HomePage() {
         <PricingPage />
       </AnimatedSection>
 
-      {/* Tutorial */}
-      <AnimatedSection>
-        <TutorialPage />
-      </AnimatedSection>
-
-      {/* Developers */}
-      <AnimatedSection>
-        <DevelopersPage />
-      </AnimatedSection>
-
       {/* FAQ */}
       <AnimatedSection>
         <FAQPage />
       </AnimatedSection>
 
-      {/* Contact */}
+      {/* Developers */}
       <AnimatedSection>
-        <ContactPage />
-      </AnimatedSection>
-
-      {/* About */}
-      <AnimatedSection>
-        <AboutPage />
+        <DevelopersPage />
       </AnimatedSection>
 
       {/* Footer */}
