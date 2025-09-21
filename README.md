@@ -8,6 +8,8 @@
 
 ## 🚀 About Lumina
 
+<img width="1023" height="546" alt="image" src="https://github.com/user-attachments/assets/66ceb218-8f2a-429f-9377-eda1de8accd7" />
+
 Lumina is an innovative AI-powered SaaS platform that revolutionizes the way developers and non-technical users create applications and websites. By simply chatting with our AI, users can build complex projects without traditional coding barriers, making development faster, smarter, and more accessible to everyone.
 
 ### ✨ Key Features
@@ -141,3 +143,4 @@ This project is part of the academic curriculum at VIT Bhopal University, combin
 **Made with ❤️ by the VIT Bhopal University Team**
 
 *Lumina - Making development accessible to everyone, one conversation at a time.*
+
